@@ -1,0 +1,20 @@
+{
+  "PYTHON_CMD": "py -3",
+  "NUT_USER": "guest",
+  "NUT_PASS": "guest",
+  "SCRAPE_ESHOP": false,
+  "AUTO_UNLOCK": false,
+  "SCAN_FILES_EVERY_MINUTES": 60,
+  "UPDATE_DBS_EVERY_MINUTES": 480,
+  "URL_NOTIFY_NEW_FILES": "",
+  "API_KEY": null,
+  "SWITCH_ALIASES": {
+    "XAJ70002712345": "My Fake Switch"
+  },
+  "USERS": {
+    "guest": {
+      "PASSWORD": "guest",
+      "ADMIN": true
+    }
+  }
+}
