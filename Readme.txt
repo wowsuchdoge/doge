@@ -42,6 +42,14 @@ Doge
   - Make sure you set where you want files to go in nut.conf's "paths", by default they will be moved into sub-folders)
 
 # Changelog
+## v2.1.1 [Doge]
+- Support for Bob's VersionDB, now part of doge.conf.default.json (go update your doge.config.json!)
+- Only Admin users can set games as Wanted (you have to re-login to be seen as an Admin!)
+- Blacklist.txt support is back (read only, just add title IDs to the file in the nut folder)
+- /api/keyless.txt export
+- Fixed bug where game details wouldn't popup if you navigated directly to History page
+- Updated Nut
+
 ## v2.1.0 [Doge]
 - Full game details screen
 - Like/Dislike games, per user

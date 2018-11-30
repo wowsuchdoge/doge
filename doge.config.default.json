@@ -7,6 +7,7 @@
   "SCAN_FILES_EVERY_MINUTES": 60,
   "UPDATE_DBS_EVERY_MINUTES": 480,
   "URL_NOTIFY_NEW_FILES": "",
+  "BOB_VERSION_DB_URL": "https://raw.githubusercontent.com/Bob123a1/CDNSP-GUI-Files/master/Config/Version_info.json",
   "API_KEY": null,
   "SWITCH_ALIASES": {
     "XAJ70002712345": "My Fake Switch"
