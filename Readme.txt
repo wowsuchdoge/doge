@@ -42,6 +42,12 @@ Doge
   - Make sure you set where you want files to go in nut.conf's "paths", by default they will be moved into sub-folders)
 
 # Changelog
+## v2.1.2 [Doge]
+- No longer showing games with future release dates in missing.txt/keyless.txt
+- Fixed new games/dlc without a key getting tagged as "Key Changed"
+- Fixed &s in game names breaking notifications
+- Updated Nut
+
 ## v2.1.1 [Doge]
 - Support for Bob's VersionDB, now part of doge.conf.default.json (go update your doge.config.json!)
 - Only Admin users can set games as Wanted (you have to re-login to be seen as an Admin!)
