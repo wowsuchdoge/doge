@@ -1,4 +1,4 @@
-Doge, a NSP collection manager
+Doge
 
 # Features
 - Look at your games collection from any browser in your home
