@@ -20,7 +20,7 @@ Doge
 - Visit the url you see in your web browser
 
 # Docker
-- Docker image is available at https://github.com/krptg0/doge
+- Unofficial Docker image is available at https://github.com/krptg0/doge
 - Contact krptg over Github for assistance, or open an issue directly on his repo
 
 # Credits
