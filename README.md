@@ -26,7 +26,6 @@ Doge
 # Credits
 - Doge
 - Thanks to blawar, morrison22, krptg, Bob, DBZTrunks, and more!
-- krptg for the Docker stuff
 
 # How To
 - If you're having trouble, make sure Nut runs fine on it's own (don't run it without any params because it will rename your files)
