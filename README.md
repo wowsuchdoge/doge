@@ -25,7 +25,7 @@ Doge
 
 # Credits
 - Doge
-- Thanks to blawar, morrison22, DBZTrunks, and more!
+- Thanks to blawar, morrison22, krptg, Bob, DBZTrunks, and more!
 - krptg for the Docker stuff
 
 # How To
