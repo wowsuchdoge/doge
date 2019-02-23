@@ -49,6 +49,15 @@ Doge
   - Make sure you set where you want files to go in nut.conf's "paths", by default they will be moved into sub-folders)
 
 # Changelog
+## v2.1.3 [Doge]
+- Support for auto-updating from Nut's TitleDb! All the region+language files in nut/titledb + languages.json get auto-updated now. Nut itself is not auto-updated to avoid compatibility issues. (go update your doge.config.json from the default!)
+- Export currently shown games list as .txt (from dropdown menu top-right)
+- Game Details screen shows Publisher
+- Game Details has loading text when it's loading
+- Search finds games by Publisher now, too
+- Updated nut
+- Note: Nut server has new python dependency, so follow Setup section again if upgrading
+
 ## v2.1.2 [Doge]
 - No longer showing games with future release dates in missing.txt/keyless.txt
 - Fixed new games/dlc without a key getting tagged as "Key Changed"
