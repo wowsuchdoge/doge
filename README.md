@@ -49,6 +49,11 @@ Doge
   - Make sure you set where you want files to go in nut.conf's "paths", by default they will be moved into sub-folders)
 
 # Changelog
+## v2.1.4 [Doge]
+- Added filter option: "Don't Have"
+- Export only missing games
+- Considering games with everything there, but DLC only preloaded as 'dlc-missing' instead of 'current' now
+
 ## v2.1.3 [Doge]
 - Support for auto-updating from Nut's TitleDb! All the region+language files in nut/titledb + languages.json get auto-updated now. Nut itself is not auto-updated to avoid compatibility issues. (go update your doge.config.json from the default!)
 - Export currently shown games list as .txt (from dropdown menu top-right)
