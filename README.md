@@ -49,6 +49,13 @@ Doge
   - Make sure you set where you want files to go in nut.conf's "paths", by default they will be moved into sub-folders)
 
 # Changelog
+## v2.1.5 [Doge]
+- Auto-updating versions.txt from Nut TitleDB, also (so now version info comes from Bob's and Nut's DBs)
+- Only downloading Nut TitleDB files when there was a new commit
+- Added NUT_TITLEDB_LANG_FILTER option to only download language+region files that include a string you set (leave it blank to get them all)
+  So if you only want to to update US titles, set NUT_TITLEDB_LANG_FILTER to "US".
+- Updated nut to ad853c8ba773f2814317c570321b4e4ee6683393 (before scrape feature was removed)
+
 ## v2.1.4 [Doge]
 - Added filter option: "Don't Have"
 - Export only missing games
